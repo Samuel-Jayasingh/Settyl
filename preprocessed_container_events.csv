@@ -1,0 +1,109 @@
+externalStatus,internalStatus,internalStatusEncoded
+port out,Port Out,13
+terminal in,Inbound Terminal,7
+port in,Port In,12
+vessel departure from first pol vessel name  tian fu he,Departure,1
+vessel arrival at final pod vessel name  tian fu he,Arrival,0
+departcu,Departure,1
+gate in,Gate In,4
+load on maersk sembawang  237e,Loaded on Vessel,8
+discharge,Departure,1
+gate out,Gate Out,5
+load on msc sveva  248e,Loaded on Vessel,8
+load vessel name  msc orion,Loaded on Vessel,8
+discharge vessel name  msc orion,Departure,1
+on rail,On Rail,10
+off rail,Off Rail,9
+gate out empty,Empty Return,3
+load on msc orion  227n,Loaded on Vessel,8
+toll plaza crossed,In-transit,6
+cfs out,Outbound Terminal,11
+cfs in,Inbound Terminal,7
+empty container release to shipper,Empty Container Released,2
+gate in to outbound terminal,Outbound Terminal,11
+loaded on ym plum 175w at port of loading ym plum 175w,Loaded on Vessel,8
+ym plum 175w departure from port of loading ym plum 175w,Departure,1
+ym plum 175w arrival at port of discharging ym plum 175w,Arrival,0
+unloaded from ym plum 175w at port of discharging ym plum 175w,Unloaded on Vessel,14
+empty container returned from customer,Empty Return,3
+empty container door arrival,Arrival,0
+gate in to outbound cy,Outbound Terminal,11
+outbound rail loading,Outbound Terminal,11
+outbound rail departure,Outbound Terminal,11
+outbound rail arrival,Outbound Terminal,11
+outbound rail unloading,Outbound Terminal,11
+gate out from outbound cy,Outbound Terminal,11
+loaded on tucapel 008e at port of loading tucapel 008e,Loaded on Vessel,8
+tucapel 008e departure from port of loading tucapel 008e,Departure,1
+tucapel 008e arrival at port of discharging tucapel 008e,Arrival,0
+unloaded from tucapel 008e at port of discharging tucapel 008e,Unloaded on Vessel,14
+load on cap san artemissio  240s,Loaded on Vessel,8
+terminal out,Outbound Terminal,11
+load on edith maersk  241e,Loaded on Vessel,8
+load on leonidio  248w,Loaded on Vessel,8
+load on norfolk  226e,Loaded on Vessel,8
+load on mumbai maersk  226w,Loaded on Vessel,8
+load on maersk evora  228n,Loaded on Vessel,8
+load on cma cgm don pascuale  242n,Loaded on Vessel,8
+load on pl germany  246n,Loaded on Vessel,8
+load on cap san sounio  239w,Loaded on Vessel,8
+load on cielo di rabat  243w,Loaded on Vessel,8
+load on gerner maersk  226n,Loaded on Vessel,8
+load on maersk stepnica  242s,Loaded on Vessel,8
+load on maersk horsburgh  242e,Loaded on Vessel,8
+load on skagen maersk  248s,Loaded on Vessel,8
+gate out,Gate Out,5
+load on msc livorno  224n,Loaded on Vessel,8
+load on san clemente  244e,Loaded on Vessel,8
+load on maersk guatemala  247e,Loaded on Vessel,8
+load on nyk fushimi  115n,Loaded on Vessel,8
+load on milan maersk  242e,Loaded on Vessel,8
+load on sealand illinois  226e,Loaded on Vessel,8
+load on volga maersk  241n,Loaded on Vessel,8
+load on maersk montana  246w,Loaded on Vessel,8
+load on bg ireland  247w,Loaded on Vessel,8
+load on northern jasper  027e,Loaded on Vessel,8
+loaded usjax,Loaded on Vessel,8
+unloaded prsju,Unloaded on Vessel,14
+actual time of departure,Departure,1
+expected time of departure,Departure,1
+load vessel name  cosco indonesia,Loaded on Vessel,8
+discharge vessel name  cosco indonesia,Departure,1
+empty to shipper,Empty Container Released,2
+vessel departure,Departure,1
+vessel arrival,Arrival,0
+loaded on board,Loaded on Vessel,8
+full load on rail for export,Loaded on Vessel,8
+train arrival for export,Arrival,0
+import unloaded from rail,Unloaded on Vessel,14
+import loaded on rail,Loaded on Vessel,8
+full transshipment loaded,Loaded on Vessel,8
+export loaded on vessel,Loaded on Vessel,8
+empty to shipper,Empty Container Released,2
+export unloaded from rail,Unloaded on Vessel,14
+export rail departure,Departure,1
+export loaded on rail,Loaded on Vessel,8
+loaded at ts pol,Loaded on Vessel,8
+loaded at first pol,Loaded on Vessel,8
+load vessel name  maersk bulan,Loaded on Vessel,8
+discharge vessel name  maersk bulan,Departure,1
+load vessel name  maersk nijmegen,Loaded on Vessel,8
+discharge vessel name  maersk nijmegen,Departure,1
+load vessel name  elbwater,Loaded on Vessel,8
+discharge vessel name  elbwater,Departure,1
+loaded on board vessel name  vayenga maersk,Loaded on Vessel,8
+vessel departure vessel name  vayenga maersk,Departure,1
+vessel arrival vessel name  vayenga maersk,Arrival,0
+loaded on board,Loaded on Vessel,8
+expected arrival update,Arrival,0
+loaded on train,Loaded on Vessel,8
+rail arrival intransit,Arrival,0
+expected arrival at dest ramp,Arrival,0
+expected arrival place of delivery,Arrival,0
+loaded on marina one 001s at port of loading marina one 001s,Loaded on Vessel,8
+marina one 001s departure from port of loading marina one 001s,Departure,1
+marina one 001s arrival at port of discharging marina one 001s,Arrival,0
+unloaded from marina one 001s at port of discharging marina one 001s,Unloaded on Vessel,14
+load on mogens maersk  246w,Loaded on Vessel,8
+load on msc alexandra  248w,Loaded on Vessel,8
+estimated time of arrival,Arrival,0
