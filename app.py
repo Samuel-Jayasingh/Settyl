@@ -4,7 +4,13 @@ import numpy as np
 import pickle
 import tensorflow as tf
 import logging
+import os
 
+# Load environment variables
+FASTAPI_VERSION = os.getenv("FASTAPI_VERSION", "0.68.0")
+UVICORN_VERSION = os.getenv("UVICORN_VERSION", "0.15.0")
+NUMPY_VERSION = os.getenv("NUMPY_VERSION", "1.20.3")
+TENSORFLOW_VERSION = os.getenv("TENSORFLOW_VERSION", "2.6.3")
 
 logger = logging.getLogger("uvicorn")
 logger.setLevel(logging.DEBUG)
@@ -14,12 +20,12 @@ with open("tokenizer.pkl", "rb") as f:
 
 model = tf.keras.models.load_model("trained_model.h5")
 
-app = FastAPI()
 
+app = FastAPI()
 @app.get("/")
 async def root():
     return {"message": "Welcome to the API!"}
-
+    
 @app.get("/favicon.ico")
 async def favicon():
     return
