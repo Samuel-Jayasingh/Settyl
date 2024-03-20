@@ -1,8 +1,8 @@
-# Settyl API Documentation
+# Settyl API Assignment
 
 ## Overview
 
-Settyl is a web API built with FastAPI that provides predictive analysis for internal status based on external status inputs. It uses a pre-trained TensorFlow model to make predictions.
+Settyl- Container Event is a web API built with FastAPI that provides predictive analysis for internal status based on external status inputs. It uses a pre-trained TensorFlow model to make predictions.
 
 ## Base URL
 
